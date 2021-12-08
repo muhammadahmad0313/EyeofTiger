@@ -27,6 +27,9 @@ This game was created to evaluate the perception of players of different ages an
      style="width:640px;height:400px; float: left; margin-right: 10px;" />
      
 
+The 3D models were created by my kungfu brother Rodrigo Villani, who saved me with that and to whom I am very grateful. 
+All credits reserved to him. Thanks Rodrigo!
+
 
 This project is part of the completion work of Antonio Willian Sousa from the Systems Analysis and Development course at Faculdade Tecnologia de São Paulo.
 Complete work here: https://drive.google.com/file/d/1HohKJ8gVTxQTnEW4BLrkph3dTmnc3WFu/view?usp=sharing
