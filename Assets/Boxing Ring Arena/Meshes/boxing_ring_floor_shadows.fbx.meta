@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 5f7bfbe7c71a5c34087c741f30ce8e5a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Corner_A_Bone
+    100006: Corner_B_Bone
+    100008: Corner_C_Bone
+    100010: Corner_D_Bone
+    100012: Light
+    100014: Root_Bone
+    100016: Rope_A_1_Bone
+    100018: Rope_A_2_Bone
+    100020: Rope_A_3_Bone
+    100022: Rope_A_4_Bone
+    100024: Rope_A_5_Bone
+    100026: Rope_A_6_Bone
+    100028: Rope_B_1_Bone
+    100030: Rope_B_2_Bone
+    100032: Rope_B_3_Bone
+    100034: Rope_B_4_Bone
+    100036: Rope_B_5_Bone
+    100038: Rope_B_6_Bone
+    100040: Rope_C_1_Bone
+    100042: Rope_C_2_Bone
+    100044: Rope_C_3_Bone
+    100046: Rope_C_4_Bone
+    100048: Rope_C_5_Bone
+    100050: Rope_C_6_Bone
+    100052: Rope_D_1_Bone
+    100054: Rope_D_2_Bone
+    100056: Rope_D_3_Bone
+    100058: Rope_D_4_Bone
+    100060: Rope_D_5_Bone
+    100062: Rope_D_6_Bone
+    100064: rope_shadows_base
+    400000: //RootNode
+    400002: Camera
+    400004: Corner_A_Bone
+    400006: Corner_B_Bone
+    400008: Corner_C_Bone
+    400010: Corner_D_Bone
+    400012: Light
+    400014: Root_Bone
+    400016: Rope_A_1_Bone
+    400018: Rope_A_2_Bone
+    400020: Rope_A_3_Bone
+    400022: Rope_A_4_Bone
+    400024: Rope_A_5_Bone
+    400026: Rope_A_6_Bone
+    400028: Rope_B_1_Bone
+    400030: Rope_B_2_Bone
+    400032: Rope_B_3_Bone
+    400034: Rope_B_4_Bone
+    400036: Rope_B_5_Bone
+    400038: Rope_B_6_Bone
+    400040: Rope_C_1_Bone
+    400042: Rope_C_2_Bone
+    400044: Rope_C_3_Bone
+    400046: Rope_C_4_Bone
+    400048: Rope_C_5_Bone
+    400050: Rope_C_6_Bone
+    400052: Rope_D_1_Bone
+    400054: Rope_D_2_Bone
+    400056: Rope_D_3_Bone
+    400058: Rope_D_4_Bone
+    400060: Rope_D_5_Bone
+    400062: Rope_D_6_Bone
+    400064: rope_shadows_base
+    4300000: rope_shadows_base
+    9500000: //RootNode
+    13700000: rope_shadows_base
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

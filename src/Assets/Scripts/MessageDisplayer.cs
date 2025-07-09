@@ -37,6 +37,7 @@ public class MessageDisplayer : MonoBehaviour
 			formattedMessages += message + "\n";
 		}
 		
+		// For older Unity versions, guiText was a built-in property of MonoBehaviour
 		guiText.text = formattedMessages;
 	}
 }
